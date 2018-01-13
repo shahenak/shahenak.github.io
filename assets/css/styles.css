@@ -2354,6 +2354,10 @@ i-rounded {
     Section - Projects
 \*------------------------------------*/
 
+.override-width-100 {
+  width: 100% !important;
+}
+
 .projects > .item {
   border-bottom: 1px solid #dad9da;
   max-width: 100%;
