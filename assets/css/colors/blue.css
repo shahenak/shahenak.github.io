@@ -151,11 +151,11 @@
 
 @media (min-width: 992px) {
   .projects > .item .hover-bg {
-    background-color: #026cff;
+    background-color: #18334e;
   }
 }
 .projects > .item .has-sideline:before {
-  background-color: #026cff;
+  background-color: #18334e;
 }
 
 
@@ -164,7 +164,7 @@
 */
 
 .project-nav ul > li.active > a:before {
-  background-color: #026cff;
+  background-color: #18334e;
 }
 
 
@@ -173,22 +173,22 @@
 */
 
 .mfp-triggerBtn:before {
-  background-color: #026cff;
+  background-color: #18334e;
 }
 .mfp-projectTitleWrap:before {
-  background-color: #026cff;
+  background-color: #18334e;
 }
 .mfp-projectLink:hover:before {
-  background-color: #026cff;
+  background-color: #18334e;
 }
 .mfp-triggerClose {
-  background-color: #026cff;
+  background-color: #18334e;
 }
 button.mfp-arrow:before {
-  background-color: #026cff;
+  background-color: #18334e;
 }
 .mfp-preloader {
-  background-color: #026cff;
+  background-color: #18334e;
 }
 
 
@@ -200,7 +200,7 @@ button.mfp-arrow:before {
 \*------------------------------------*/
 
 .gallery-carousel .gallery-cell .cell-number {
-  background-color: #026cff;
+  background-color: #18334e;
 }
 
 
@@ -212,13 +212,13 @@ button.mfp-arrow:before {
 \*------------------------------------*/
 
 .area-chart-wrapper ul > li:nth-child(2) > span:before {
-  background-color: #026cff;
+  background-color: #18334e;
 }
 .area-chart-wrapper ul > li > span:before {
-  background-color: #026cff;
+  background-color: #18334e;
 }
 .area-chart-graph .ct-series-b .ct-area {
-  fill: #026cff;
+  fill: #18334e;
 }
 
 
@@ -230,5 +230,5 @@ button.mfp-arrow:before {
 \*------------------------------------*/
 
 .footer ul > li a:before {
-  background-color: #026cff;
+  background-color: #18334e;
 }

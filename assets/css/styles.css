@@ -2934,6 +2934,13 @@ img.mfp-img {
   height: 60px;
   z-index: 5;
 }
+
+.gallery-carousel .gallery-cell .cell-description {
+  text-transform: uppercase;
+  color: #18334e;
+  text-align: center;
+}
+
 @media (min-width: 480px) {
   .gallery-carousel .gallery-cell .cell-number {
     margin-top: -25px;
